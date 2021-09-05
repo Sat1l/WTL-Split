@@ -746,9 +746,9 @@ F 3 "" H 4200 3250 50  0001 C CNN
 $EndComp
 Text GLabel 2700 2950 0    50   Input ~ 0
 dara_r
-Text GLabel 4100 3350 2    50   Input ~ 0
+Text GLabel 2700 3550 0    50   Input ~ 0
 col7
-Text GLabel 4100 4050 2    50   Input ~ 0
+Text GLabel 2700 3650 0    50   Input ~ 0
 col6
 Text GLabel 4100 3950 2    50   Input ~ 0
 col5
@@ -760,12 +760,12 @@ Text GLabel 4100 3650 2    50   Input ~ 0
 col2
 Text GLabel 4100 3550 2    50   Input ~ 0
 col1
-Text GLabel 4100 3450 2    50   Input ~ 0
-row1
-Text GLabel 2700 3550 0    50   Input ~ 0
-row2
-Text GLabel 2700 3650 0    50   Input ~ 0
-row3
 Text GLabel 2700 3750 0    50   Input ~ 0
+row1
+Text GLabel 2700 3850 0    50   Input ~ 0
+row2
+Text GLabel 4100 3350 2    50   Input ~ 0
+row3
+Text GLabel 4100 3450 2    50   Input ~ 0
 row4
 $EndSCHEMATC
