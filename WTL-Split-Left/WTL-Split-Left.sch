@@ -773,10 +773,10 @@ Wire Wire Line
 	1200 4950 1200 4850
 Connection ~ 1200 4850
 $Comp
-L power:+5V #PWR?
+L power:+5V #PWR0104
 U 1 1 61380FCA
 P 2750 4950
-F 0 "#PWR?" H 2750 4800 50  0001 C CNN
+F 0 "#PWR0104" H 2750 4800 50  0001 C CNN
 F 1 "+5V" H 2765 5123 50  0000 C CNN
 F 2 "" H 2750 4950 50  0001 C CNN
 F 3 "" H 2750 4950 50  0001 C CNN
@@ -785,4 +785,28 @@ F 3 "" H 2750 4950 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	2600 4950 2750 4950
+Text GLabel 1200 4650 0    50   Input ~ 0
+col1
+Text GLabel 2600 5050 2    50   Input ~ 0
+col2
+Text GLabel 2600 5650 2    50   Input ~ 0
+col3
+Text GLabel 2600 5150 2    50   Input ~ 0
+col8
+Text GLabel 2600 5250 2    50   Input ~ 0
+col7
+Text GLabel 2600 5350 2    50   Input ~ 0
+col6
+Text GLabel 2600 5450 2    50   Input ~ 0
+col5
+Text GLabel 2600 5550 2    50   Input ~ 0
+col4
+Text GLabel 2600 5750 2    50   Input ~ 0
+row2
+Text GLabel 1200 5750 0    50   Input ~ 0
+row3
+Text GLabel 1200 5650 0    50   Input ~ 0
+row4
+Text GLabel 1200 5550 0    50   Input ~ 0
+row1
 $EndSCHEMATC
