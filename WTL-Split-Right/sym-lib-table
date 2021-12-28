@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name WTL-Split-Right-rescue)(type Legacy)(uri ${KIPRJMOD}/WTL-Split-Right-rescue.lib)(options "")(descr ""))
+)

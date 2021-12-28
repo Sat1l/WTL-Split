@@ -1,4 +1,4 @@
-20091082049864871
+20094560096216402
 Alps_Only
 ALPS-1.5U
 
@@ -2491,6 +2491,13 @@ speaker CUI
 0
 2
 2
+CSTNE16M0V530000R0
+OSC_CSTNE16M0V530000R0
+
+
+0
+3
+3
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -87772,6 +87779,13 @@ Through hole pin header THT 1x04 2.54mm single row
 0
 4
 4
+nrfmicro
+easyeda_C168688
+
+
+0
+20
+17
 nrfmicro
 pro_micro
 

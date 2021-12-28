@@ -41,11 +41,11 @@ X ROW 2 -50 -150 100 U 0 0 1 1 P
 ENDDRAW
 ENDDEF
 #
-# kbd_MJ-4PP-9
+# WTL-Split-Left-rescue_MJ-4PP-9-kbd
 #
-DEF kbd_MJ-4PP-9 J 0 40 Y Y 1 F N
+DEF WTL-Split-Left-rescue_MJ-4PP-9-kbd J 0 40 Y Y 1 F N
 F0 "J" 0 150 50 H V C CNN
-F1 "kbd_MJ-4PP-9" 0 -150 50 H V C CNN
+F1 "WTL-Split-Left-rescue_MJ-4PP-9-kbd" 0 -150 50 H V C CNN
 F2 "" 275 175 50 H I C CNN
 F3 "" 275 175 50 H I C CNN
 DRAW
@@ -62,11 +62,11 @@ X ~ D 200 25 79 L 28 20 1 1 I
 ENDDRAW
 ENDDEF
 #
-# kbd_ProMicro
+# WTL-Split-Left-rescue_ProMicro-kbd
 #
-DEF kbd_ProMicro U 0 40 Y Y 1 F N
+DEF WTL-Split-Left-rescue_ProMicro-kbd U 0 40 Y Y 1 F N
 F0 "U" 0 750 60 H V C CNN
-F1 "kbd_ProMicro" 0 -750 60 H V C CNN
+F1 "WTL-Split-Left-rescue_ProMicro-kbd" 0 -750 60 H V C CNN
 F2 "" 100 -1050 60 H V C CNN
 F3 "" 100 -1050 60 H V C CNN
 DRAW

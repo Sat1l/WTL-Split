@@ -331,7 +331,7 @@ U 1 1 613C4616
 P 5150 4950
 F 0 "MX14" H 5183 5173 60  0000 C CNN
 F 1 "MX-NoLED" H 5183 5099 20  0000 C CNN
-F 2 "MX_Only:MXOnly-2U-NoLED" H 4525 4925 60  0001 C CNN
+F 2 "MX_Only:MXOnly-2U-ReversedStabilizers-NoLED" H 4525 4925 60  0001 C CNN
 F 3 "" H 4525 4925 60  0001 C CNN
 	1    5150 4950
 	1    0    0    -1  
@@ -523,7 +523,7 @@ U 1 1 613E4EB0
 P 6950 5550
 F 0 "MX22" H 6983 5773 60  0000 C CNN
 F 1 "MX-NoLED" H 6983 5699 20  0000 C CNN
-F 2 "MX_Only:MXOnly-2U-NoLED" H 6325 5525 60  0001 C CNN
+F 2 "MX_Only:MXOnly-2U-ReversedStabilizers-NoLED" H 6325 5525 60  0001 C CNN
 F 3 "" H 6325 5525 60  0001 C CNN
 	1    6950 5550
 	1    0    0    -1  
@@ -695,7 +695,7 @@ Wire Wire Line
 	8000 3700 8000 4900
 Connection ~ 8000 4900
 $Comp
-L kbd:ProMicro U1
+L WTL-Split-Left-rescue:ProMicro-kbd U1
 U 1 1 614197CC
 P 1900 5200
 F 0 "U1" H 1900 6037 60  0000 C CNN
@@ -710,7 +710,7 @@ data_r
 Text GLabel 3500 4450 2    50   Input ~ 0
 data_r
 $Comp
-L kbd:MJ-4PP-9 J1
+L WTL-Split-Left-rescue:MJ-4PP-9-kbd J1
 U 1 1 6141D0A5
 P 3000 4350
 F 0 "J1" H 3031 4626 50  0000 C CNN

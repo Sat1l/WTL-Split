@@ -499,7 +499,7 @@ U 1 1 613D024C
 P 6600 4500
 F 0 "MX21" H 6633 4723 60  0000 C CNN
 F 1 "MX-NoLED" H 6633 4649 20  0000 C CNN
-F 2 "MX_Only:MXOnly-2U-NoLED" H 5975 4475 60  0001 C CNN
+F 2 "MX_Only:MXOnly-2U-ReversedStabilizers-NoLED" H 5975 4475 60  0001 C CNN
 F 3 "" H 5975 4475 60  0001 C CNN
 	1    6600 4500
 	1    0    0    -1  
@@ -658,7 +658,7 @@ col6
 Text GLabel 9000 2650 1    50   Input ~ 0
 col7
 $Comp
-L kbd:ProMicro U1
+L WTL-Split-Right-rescue:ProMicro-kbd U1
 U 1 1 613E4DD7
 P 3400 3500
 F 0 "U1" H 3400 4337 60  0000 C CNN
@@ -669,7 +669,7 @@ F 3 "" H 3500 2450 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L kbd:MJ-4PP-9 J1
+L WTL-Split-Right-rescue:MJ-4PP-9-kbd J1
 U 1 1 613E65F2
 P 3900 2100
 F 0 "J1" H 3931 2376 50  0000 C CNN
